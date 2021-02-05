@@ -1,0 +1,5 @@
+.vscode
+api-env
+__psycache__
+.env
+migrations
